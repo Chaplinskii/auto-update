@@ -1,6 +1,6 @@
 
 Автор: hacoc
-Репозиторий: https://gitverse.ru/HACOC/configs.git
+Репозиторий: https://gitverse.ru/HACOC/auto-update.git
 Версия: 1.0
 Дата: 2025-11-25
 
